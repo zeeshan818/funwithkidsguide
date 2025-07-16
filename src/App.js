@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import ActivityCard from "./components/ActivityCard";
 import FilterBar from "./components/FilterBar";
 import SuggestForm from "./components/SuggestForm";
@@ -57,12 +58,12 @@ function App() {
       </div>
       {showForm && <SuggestForm close={() => setShowForm(false)} />}
       <footer>
-  <p>
-    &copy; {new Date().getFullYear()} FunWithKidsGuide.com &nbsp;|&nbsp; 
-    <a href="/about">About</a> &nbsp;|&nbsp; 
-    <a href="/contact">Contact</a>
-  </p>
-	</footer>
+        <p>
+          &copy; {new Date().getFullYear()} FunWithKidsGuide.com &nbsp;|&nbsp;
+          <Link to="/about">About</Link> &nbsp;|&nbsp;
+          <Link to="/contact">Contact</Link>
+        </p>
+      </footer>
     </div>
   );
 }
