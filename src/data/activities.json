@@ -5,7 +5,7 @@
     "cost": "Free",
     "age": "All",
     "location": "Chicago",
-    "desc": "A great downtown park with splash pad, open lawn, music events, and Cloud Gate.",
+    "desc": "Downtown park with splash pad, playground, music events, and Cloud Gate (the Bean).",
     "link": "https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html"
   },
   {
@@ -14,7 +14,7 @@
     "cost": "Paid",
     "age": "Toddler",
     "location": "Naperville",
-    "desc": "Hands-on activities for young kids, sensory rooms, STEM exhibits.",
+    "desc": "Hands-on STEAM activities for young kids, sensory rooms, and rotating exhibits.",
     "link": "https://dupagechildrens.org/"
   },
   {
@@ -22,8 +22,504 @@
     "type": "Outdoor",
     "cost": "Paid",
     "age": "Tween",
-    "location": "Downers Grove",
-    "desc": "Adventure park for bigger kids, climbing, zip lines, water play.",
+    "location": "Lemont",
+    "desc": "Adventure park with ropes course, zip lines, paddleboats, and more.",
     "link": "https://www.forgeparks.com/"
+  },
+  {
+    "name": "Brookfield Zoo",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Brookfield",
+    "desc": "Huge zoo with animal exhibits, kids’ play areas, splash pads, and special events.",
+    "link": "https://www.czs.org/brookfield-zoo"
+  },
+  {
+    "name": "Peggy Notebaert Nature Museum",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "Preschool",
+    "location": "Chicago",
+    "desc": "Butterfly haven, hands-on nature play spaces, and wildlife exhibits.",
+    "link": "https://naturemuseum.org/"
+  },
+  {
+    "name": "Lincoln Park Zoo",
+    "type": "Outdoor",
+    "cost": "Free",
+    "age": "All",
+    "location": "Chicago",
+    "desc": "Historic free zoo with animals, train ride, carousel, and kids’ farm area.",
+    "link": "https://www.lpzoo.org/"
+  },
+  {
+    "name": "Cosley Zoo",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "Toddler",
+    "location": "Wheaton",
+    "desc": "Mini-zoo with farm animals and small mammals. Perfect for younger kids.",
+    "link": "https://cosleyzoo.org/"
+  },
+  {
+    "name": "LEGOLAND Discovery Center",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "Elementary",
+    "location": "Schaumburg",
+    "desc": "LEGO-themed rides, 4D cinema, play zones, and building activities.",
+    "link": "https://www.legolanddiscoverycenter.com/chicago/"
+  },
+  {
+    "name": "Morton Arboretum Children's Garden",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Lisle",
+    "desc": "Sprawling gardens with treehouses, streams, splash areas, and nature play.",
+    "link": "https://mortonarb.org/visit/explore/childrens-garden/"
+  },
+  {
+    "name": "Shedd Aquarium",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Chicago",
+    "desc": "One of the world's best aquariums with sharks, dolphins, and hands-on exhibits.",
+    "link": "https://www.sheddaquarium.org/"
+  },
+  {
+    "name": "Knoch Knolls Nature Center",
+    "type": "Indoor",
+    "cost": "Free",
+    "age": "All",
+    "location": "Naperville",
+    "desc": "Interactive nature center and outdoor trails along the river.",
+    "link": "https://www.napervilleparks.org/knochknollsnaturecenter"
+  },
+  {
+    "name": "Bison's Bluff Nature Playground",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "Preschool",
+    "location": "Schaumburg",
+    "desc": "Nature-inspired play structures, stream, sand pit, and climbing boulders.",
+    "link": "https://www.parkfun.com/facilities/bisons-bluff"
+  },
+  {
+    "name": "SciTech Hands On Museum",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "Elementary",
+    "location": "Aurora",
+    "desc": "Science exhibits, demonstrations, and interactive play for curious kids.",
+    "link": "https://scitechmuseum.org/"
+  },
+  {
+    "name": "Naper Settlement",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Naperville",
+    "desc": "Outdoor history museum with historic buildings, costumed interpreters, and family events.",
+    "link": "https://www.napersettlement.org/"
+  },
+  {
+    "name": "Funtopia Glenview",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "Elementary",
+    "location": "Glenview",
+    "desc": "Indoor adventure park with climbing walls, ropes course, and giant slides.",
+    "link": "https://funtopiaworld.com/glenview/"
+  },
+  {
+    "name": "Lake Katherine Nature Center & Botanic Gardens",
+    "type": "Outdoor",
+    "cost": "Free",
+    "age": "All",
+    "location": "Palos Heights",
+    "desc": "Trails, waterfall, wildlife, and interactive nature center for kids.",
+    "link": "https://www.lakekatherine.org/"
+  },
+  {
+    "name": "Skokie Water Playground",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Skokie",
+    "desc": "Outdoor pool with splash features, water slides, and tot play zone.",
+    "link": "https://www.skokieparks.org/skokie-water-playground/"
+  },
+  {
+    "name": "Wonder Works Children's Museum",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "Toddler",
+    "location": "Oak Park",
+    "desc": "Play museum for children under 8 with creative exhibits and sensory play.",
+    "link": "https://www.wonder-works.org/"
+  },
+  {
+    "name": "Maggie Daley Park Play Garden",
+    "type": "Outdoor",
+    "cost": "Free",
+    "age": "All",
+    "location": "Chicago",
+    "desc": "Massive downtown playground with themed zones, splash pads, and mini golf.",
+    "link": "https://maggiedaleypark.com/"
+  },
+  {
+    "name": "Pirate's Cove Theme Park",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "Preschool",
+    "location": "Elk Grove Village",
+    "desc": "Imaginative pirate-themed play park for kids ages 1–9.",
+    "link": "https://www.elkgroveparks.org/pirates-cove"
+  },
+  {
+    "name": "The Exploritorium",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "Toddler",
+    "location": "Skokie",
+    "desc": "Indoor play center with climbing structures, water play, and pretend town.",
+    "link": "https://www.skokieparks.org/exploritorium/"
+  },
+  {
+    "name": "Ball Factory Playground",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "Toddler",
+    "location": "Mount Prospect",
+    "desc": "Giant ball pits, obstacle courses, inflatables, and toddler zone.",
+    "link": "https://www.ballfactoryfun.com/"
+  },
+  {
+    "name": "Vertical Endeavors",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "Tween",
+    "location": "Glendale Heights",
+    "desc": "Indoor rock climbing gym with bouldering, top rope, and auto-belays.",
+    "link": "https://www.verticalendeavors.com/gyms/glendale-heights/"
+  },
+  {
+    "name": "Enchanted Castle",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Lombard",
+    "desc": "Arcade, mini golf, go karts, laser tag, and kids' play zone.",
+    "link": "https://www.enchanted.com/"
+  },
+  {
+    "name": "Pump It Up",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "Preschool",
+    "location": "Elmhurst",
+    "desc": "Bounce house and inflatable play park with open jump and parties.",
+    "link": "https://www.pumpitupparty.com/elmhurst-il/"
+  },
+  {
+    "name": "North Avenue Beach",
+    "type": "Outdoor",
+    "cost": "Free",
+    "age": "All",
+    "location": "Chicago",
+    "desc": "Popular city beach with sand play, volleyball, and lake views.",
+    "link": "https://www.chicagoparkdistrict.com/parks-facilities/north-avenue-beach"
+  },
+  {
+    "name": "Prairie Path Books Storytime",
+    "type": "Indoor",
+    "cost": "Free",
+    "age": "Toddler",
+    "location": "Wheaton",
+    "desc": "Weekly story time at a local bookstore, often with crafts or songs.",
+    "link": "https://www.prairiepathbooks.com/"
+  },
+  {
+    "name": "Safari Land",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Villa Park",
+    "desc": "Indoor amusement park with rides, bowling, bumper cars, and arcade.",
+    "link": "https://www.safarilandfun.com/"
+  },
+  {
+    "name": "Evanston Ecology Center",
+    "type": "Indoor",
+    "cost": "Free",
+    "age": "All",
+    "location": "Evanston",
+    "desc": "Nature center with live animals, educational exhibits, and seasonal outdoor programs.",
+    "link": "https://www.cityofevanston.org/about-evanston/ecology-center"
+  },
+  {
+    "name": "Elmhurst Art Museum Family Days",
+    "type": "Indoor",
+    "cost": "Free",
+    "age": "Elementary",
+    "location": "Elmhurst",
+    "desc": "Art workshops and hands-on activities for families and children.",
+    "link": "https://www.elmhurstartmuseum.org/"
+  },
+  {
+    "name": "Sky Zone Trampoline Park",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Aurora",
+    "desc": "Trampoline park with foam pits, dodgeball, and a toddler jump zone.",
+    "link": "https://www.skyzone.com/aurora"
+  },
+  {
+    "name": "Cantigny Park",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Wheaton",
+    "desc": "Beautiful gardens, playground, museum, and family nature walks.",
+    "link": "https://cantigny.org/"
+  },
+  {
+    "name": "Harold Washington Library Center",
+    "type": "Indoor",
+    "cost": "Free",
+    "age": "All",
+    "location": "Chicago",
+    "desc": "Downtown library with a large children's center, storytimes, and free events.",
+    "link": "https://www.chipublib.org/locations/31/"
+  },
+  {
+    "name": "Glen Ellyn Public Library",
+    "type": "Indoor",
+    "cost": "Free",
+    "age": "All",
+    "location": "Glen Ellyn",
+    "desc": "Fantastic kids' area, crafts, and family reading events all year.",
+    "link": "https://gepl.org/"
+  },
+  {
+    "name": "Fullersburg Woods Nature Education Center",
+    "type": "Outdoor",
+    "cost": "Free",
+    "age": "All",
+    "location": "Oak Brook",
+    "desc": "Forest preserve with walking trails, kids’ programs, and wildlife viewing.",
+    "link": "https://www.dupageforest.org/places-to-go/fullersburg-woods"
+  },
+  {
+    "name": "Chicago Botanic Garden",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Glencoe",
+    "desc": "Beautiful gardens, Model Railroad Garden, family events, and kids’ discovery programs.",
+    "link": "https://www.chicagobotanic.org/"
+  },
+  {
+    "name": "Lost Mountain Adventure Golf",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Woodridge",
+    "desc": "Waterfalls, caves, and fun mini golf for all ages.",
+    "link": "https://www.woodridgeparks.org/facilities/lostmountain.htm"
+  },
+  {
+    "name": "Wilderness Falls Mini Golf",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Bolingbrook",
+    "desc": "Two mini golf courses, batting cages, and a mining adventure.",
+    "link": "https://www.wildernessfalls.com/"
+  },
+  {
+    "name": "The Water Works Indoor Water Park",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Schaumburg",
+    "desc": "Indoor waterpark with slides, splash playground, and lap pool.",
+    "link": "https://www.parkfun.com/facilities/the-water-works"
+  },
+  {
+    "name": "Blackberry Farm",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Aurora",
+    "desc": "Historic pioneer village, carousel, train rides, farm animals, and playground.",
+    "link": "https://www.blackberryfarm.info/"
+  },
+  {
+    "name": "Lambs Farm",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Libertyville",
+    "desc": "Petting zoo, train ride, mini golf, old-fashioned country fun, and a café.",
+    "link": "https://www.lambsfarm.org/"
+  },
+  {
+    "name": "Main Event Entertainment",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Warrenville",
+    "desc": "Bowling, arcade, laser tag, gravity ropes, and family fun center.",
+    "link": "https://www.mainevent.com/locations/illinois/warrenville/"
+  },
+  {
+    "name": "Ultimate Ninjas",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "Elementary",
+    "location": "Naperville",
+    "desc": "Ninja warrior obstacle gym with open play, classes, and birthday parties.",
+    "link": "https://ultimateninjas.com/naperville/"
+  },
+  {
+    "name": "Brooklyn Boulders",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "Tween",
+    "location": "Chicago",
+    "desc": "Indoor climbing gym with bouldering, classes, and kids’ camps.",
+    "link": "https://brooklynboulders.com/chicago/"
+  },
+  {
+    "name": "Aurora Regional Fire Museum",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Aurora",
+    "desc": "Explore historic fire engines, interactive exhibits, and firefighting history.",
+    "link": "https://www.auroraregionalfiremuseum.org/"
+  },
+  {
+    "name": "Kline Creek Farm",
+    "type": "Outdoor",
+    "cost": "Free",
+    "age": "All",
+    "location": "West Chicago",
+    "desc": "Living history 1890s farm with animals, farmhouse tours, and seasonal activities.",
+    "link": "https://www.dupageforest.org/places-to-go/kline-creek-farm"
+  },
+  {
+    "name": "Pelican Harbor Indoor/Outdoor Aquatic Park",
+    "type": "Indoor/Outdoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Bolingbrook",
+    "desc": "Indoor and outdoor pools, slides, lazy river, and tot area.",
+    "link": "https://www.bolingbrookparks.org/facilities/pelican-harbor-aquatic-park"
+  },
+  {
+    "name": "Goebbert’s Farm & Garden Center",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "South Barrington",
+    "desc": "Petting zoo, play yard, fall pumpkin festival, and seasonal events.",
+    "link": "https://www.goebbertsgardencenter.com/"
+  },
+  {
+    "name": "Santa’s Village Amusement & Water Park",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "East Dundee",
+    "desc": "Classic amusement rides, water slides, animal encounters, and Santa meet & greets.",
+    "link": "https://www.santasvillagedundee.com/"
+  },
+  {
+    "name": "Elmhurst History Museum",
+    "type": "Indoor",
+    "cost": "Free",
+    "age": "All",
+    "location": "Elmhurst",
+    "desc": "Local history museum with hands-on family exhibits and free kids’ days.",
+    "link": "https://www.elmhursthistory.org/"
+  },
+  {
+    "name": "Splash Landings Indoor Aquatic Center",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Glenview",
+    "desc": "Indoor pool with play features, water slides, and tot area.",
+    "link": "https://www.glenviewparks.org/facilities-parks/splash-landings/"
+  },
+  {
+    "name": "Lombard Roller Rink",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Lombard",
+    "desc": "Classic family roller skating, beginner lessons, and birthday parties.",
+    "link": "https://www.lombardrollerrink.com/"
+  },
+  {
+    "name": "Chicago Children’s Museum",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Chicago",
+    "desc": "Hands-on exhibits, play zones, creative workshops at Navy Pier.",
+    "link": "https://www.chicagochildrensmuseum.org/"
+  },
+  {
+    "name": "Taste of Chicago (Seasonal)",
+    "type": "Outdoor",
+    "cost": "Free",
+    "age": "All",
+    "location": "Chicago",
+    "desc": "City’s biggest food festival, kids’ activities, live music, and food tastings.",
+    "link": "https://www.chicago.gov/city/en/depts/dca/supp_info/taste_of_chicago.html"
+  },
+  {
+    "name": "Wheaton Park District Indoor Pool",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "All",
+    "location": "Wheaton",
+    "desc": "Lap swim, open swim, family water play, and swim lessons.",
+    "link": "https://www.wheatonparkdistrict.com/facilities/rice-pool/"
+  },
+  {
+    "name": "Elmhurst Art Museum Family Days",
+    "type": "Indoor",
+    "cost": "Free",
+    "age": "Elementary",
+    "location": "Elmhurst",
+    "desc": "Art workshops and hands-on activities for families and children.",
+    "link": "https://www.elmhurstartmuseum.org/"
+  },
+  {
+    "name": "Lyman Woods Nature Center",
+    "type": "Outdoor",
+    "cost": "Free",
+    "age": "All",
+    "location": "Downers Grove",
+    "desc": "Nature preserve, interpretive center, trails, and butterfly garden.",
+    "link": "https://www.dgparks.org/parks/lyman-woods"
+  },
+  {
+    "name": "Naperville Public Library",
+    "type": "Indoor",
+    "cost": "Free",
+    "age": "All",
+    "location": "Naperville",
+    "desc": "Huge children’s section, regular storytime, crafts, and STEAM programs.",
+    "link": "https://www.naperville-lib.org/"
   }
 ]
+
