@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Millennium Park",
+    "type": "Outdoor",
+    "cost": "Free",
+    "age": "All",
+    "location": "Chicago",
+    "desc": "A great downtown park with splash pad, open lawn, music events, and Cloud Gate.",
+    "link": "https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html"
+  },
+  {
+    "name": "DuPage Children's Museum",
+    "type": "Indoor",
+    "cost": "Paid",
+    "age": "Toddler",
+    "location": "Naperville",
+    "desc": "Hands-on activities for young kids, sensory rooms, STEM exhibits.",
+    "link": "https://dupagechildrens.org/"
+  },
+  {
+    "name": "The Forge: Lemont Quarries",
+    "type": "Outdoor",
+    "cost": "Paid",
+    "age": "Tween",
+    "location": "Downers Grove",
+    "desc": "Adventure park for bigger kids, climbing, zip lines, water play.",
+    "link": "https://www.forgeparks.com/"
+  }
+]
