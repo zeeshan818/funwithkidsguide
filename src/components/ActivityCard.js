@@ -19,3 +19,4 @@ function ActivityCard({ activity }) {
 }
 
 export default ActivityCard;
+
